@@ -14,6 +14,7 @@ DPR is a neural-based retrieval framework designed to retrieve semantically rele
 DPR consists of two primary neural networks:
 1. Question Encoder: Maps the query into a dense vector (embedding) representation.
 2. Context Encoder: Maps each document or passage into a dense vector representation.
+
 These two encoders are trained jointly, so their embeddings are optimized to represent query-document similarity.
 
 #### Pipeline Workflow
