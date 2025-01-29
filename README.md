@@ -5,7 +5,7 @@
 #### Concept Overview
 
 1. Dense Passage Retrieval (DPR): DPR is a dense retrieval method that retrieves documents based on semantic similarity using learned embeddings.
-2. RAG: RAG combines the power of retrieval (e.g., DPR) and generative transformers (e.g., GPT or BART). First, it retrieves relevant passages using a retriever, then generates responses using a language model.
+2. RAG: RAG combines the power of retrieval (e.g., DPR) and generative transformers. First, it retrieves relevant passages using a retriever, then generates responses using a language model.
 
 #### Pipeline Workflow
 1. Load and preprocess documents for the retrieval database.
