@@ -24,4 +24,4 @@ These two encoders are trained jointly, so their embeddings are optimized to rep
 4. Retrieve top-k relevant documents for a user query.
 5. Use a generative model to generate an answer based on retrieved documents.
 
-#### If you found this repository helpful, drop it a &#11088; &#128522;
+#### If you found this repository helpful, drop it a &#11088; :)!
