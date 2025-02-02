@@ -23,3 +23,5 @@ These two encoders are trained jointly, so their embeddings are optimized to rep
 3. Use FAISS to index the document embeddings for fast similarity search.
 4. Retrieve top-k relevant documents for a user query.
 5. Use a generative model to generate an answer based on retrieved documents.
+
+#### If you found this repository helpful, drop it a &#11088; :)
